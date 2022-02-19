@@ -29,3 +29,7 @@ terraform plan
 terraform apply
 terraform destroy
 ```
+
+## Issues
+
+[vpc output subnet](https://github.com/GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops/issues/391) proposed fix.
